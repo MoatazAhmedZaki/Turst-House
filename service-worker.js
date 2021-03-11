@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Turst-House/precache-manifest.fa017fd540c584ea2c0c66f68d4f2775.js"
+  "/Turst-House/precache-manifest.7751aec263480644c24d433f514da19d.js"
 );
 
 workbox.clientsClaim();

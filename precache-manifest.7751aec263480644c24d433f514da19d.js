@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/Turst-House/static/media/slick.ced611da.eot"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/Turst-House/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "06f0a53764748d2a39be",
+    "revision": "a01e2b305ac744f7805e",
     "url": "/Turst-House/static/css/main.95b17f03.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = [
     "url": "/Turst-House/static/js/2.31d80eb3.chunk.js"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/Turst-House/static/media/slick.f97e3bbf.svg"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/Turst-House/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/Turst-House/static/media/slick.d41f55a7.ttf"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/Turst-House/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/Turst-House/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "06f0a53764748d2a39be",
-    "url": "/Turst-House/static/js/main.af62e88c.chunk.js"
+    "revision": "a01e2b305ac744f7805e",
+    "url": "/Turst-House/static/js/main.3b2ece28.chunk.js"
   },
   {
     "revision": "224a830c69c2fa0c2d8b62858361bb2f",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/Turst-House/static/css/2.419799cd.chunk.css"
   },
   {
-    "revision": "9f9edf3582bbc686a854d6153d53bd3c",
+    "revision": "9f66b4a367ee38fc1854fd0b2e61528f",
     "url": "/Turst-House/index.html"
   }
 ];
