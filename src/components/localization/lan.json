@@ -1,0 +1,43 @@
+{
+    
+		"ar": {
+            "navbarhome": "الصفحة الرئيسية",
+            "navbarcontact": "تواصل معنا",
+            "navbarabout": "عن الشركة",
+            "navbarmarket": "المتجر",
+            "navbarresidential": "سكني",
+            "navbarmedical": "طبي",
+            "navbaradministration":"اداري ",
+            "navbarcommercial": "تجاري",
+            "navbardashboard": "الاعدادات",
+            "navbarlogout": "تسجيل خروج"
+
+
+            
+
+
+
+
+			
+        },
+        "en": {
+            "navbarhome": "HOME",
+            "navbarcontact": "CONTACT US",
+            "navbarabout": "ABOUT US",
+            "navbarmarket": "MARKETING",
+            "navbarresidential": "RESEDENTIAL",
+            "navbarmedical": "MEDICAL",
+
+            "navbaradministration":"ADMINSTRATION ",
+
+            "navbarcommercial": "COMMERCIAL",
+            "navbardashboard": "DASHBOARD",
+            "navbarlogout": "LOGOUT"
+            
+
+
+
+			
+        }
+    
+}
